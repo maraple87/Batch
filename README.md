@@ -1,5 +1,5 @@
 # Batch
-Verschiedene Batchdateien
+Verschiedene Batch- und Powershelldateien
 
 Beschreibung der einzelnen Batchdateien:
 
