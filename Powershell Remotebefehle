@@ -1,0 +1,9 @@
+Mit der Powershell kann man auch auf einem Remote-PC Befehle ausführen:
+
+Schritte:
+	1. Powershell auf eigenem PC starten als PEA-Benutzer starten (z.B. pea_plewik)
+	(Nicht auf einem Surface starten! Funktioniert bisher nur auf Desktop-PC`s)
+	2. In Powershell eingeben: 
+	Enter-PSSession PC2548 (PC-Bezeichnung entspricht die des Remote-PC´s)
+	3. Befehle ausführen wie 
+	regsvr32 C:\Programme\alfa\alfa-vm\ActiveX\CapScrn.ocx /s
