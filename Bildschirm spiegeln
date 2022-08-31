@@ -1,0 +1,3 @@
+CMD alsadmin starten
+C:\Windows>mstsc /v:[servcer-Adresse] /shadow-2
+
